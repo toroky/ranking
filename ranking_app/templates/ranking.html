@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ranking de Jogadores</title>
+
+  <!-- Tema Bootswatch: Cosmo -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.2/dist/cosmo/bootstrap.min.css" />
+</head>
+<body>
+  <div class="container my-5">
+    <h1 class="text-center mb-4">🏆 Ranking de Jogadores</h1>
+
+    <!-- Formulário de Upload -->
+    <form action="/upload" method="POST" enctype="multipart/form-data" class="row g-3 mb-5">
+      <div class="col-md-5">
+        <input type="text" name="nome_lista" class="form-control" placeholder="Nome da lista (ex: Setembro/2025)" required>
+      </div>
+      <div class="col-md-5">
+        <input type="file" name="arquivo" accept=".csv" class="form-control" required>
+      </div>
+      <div class="col-md-2">
+        <button type="submit" class="btn btn-primary w-100">Enviar</button>
+      </div>
+    </form>
+
+    <!-- Lista de Rankings -->
+    <div class="mb-4">
+      <h4>Listas disponíveis:</h4>
+      {% for lista in listas %}
+        <a href="{{ url_for('ranking', lista=lista) }}" class="btn btn-outline-primary btn-sm me-2 {% if selecionada == lista %}active{% endif %}">
+          {{ lista }}
+        </a>
+      {% endfor %}
+    </div>
+
+    <!-- Tabela de Ranking -->
+    {% if jogadores %}
+      <h4 class="mt-4">Lista selecionada: <strong>{{ selecionada }}</strong></h4>
+      <table class="table table-hover table-striped align-middle mt-3">
+        <thead class="table-primary">
+          <tr>
+            <th>#</th>
+            <th>Nome</th>
+            <th>Nível</th>
+            <th>Pontuação</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for jogador in jogadores %}
+            <tr class="{% if loop.index == 1 %}table-warning{% elif loop.index == 2 %}table-secondary{% elif loop.index == 3 %}table-light{% endif %}">
+              <th>{{ loop.index }}</th>
+              <td>{{ jogador[0] }}</td>
+              <td>{{ jogador[1] }}</td>
+              <td>
+                {{ jogador[2] }}
+                {% if loop.index == 1 %}
+                  <span class="badge bg-warning text-dark">🥇</span>
+                {% elif loop.index == 2 %}
+                  <span class="badge bg-secondary">🥈</span>
+                {% elif loop.index == 3 %}
+                  <span class="badge bg-light text-dark">🥉</span>
+                {% endif %}
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% endif %}
+  </div>
+</body>
+</html>
