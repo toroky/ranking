@@ -1,1 +1,168 @@
 [2025-09-09 20:12:22] Erro: invalid literal for int() with base 10: 'nivel' | Linha: {'nome': 'Invalido', 'nivel': 'nivel', 'pontuacao': 'erro'}
+[2025-09-09 20:46:21] Erro: invalid literal for int() with base 10: 'nivel' | Linha: {'nome': 'Invalido', 'nivel': 'nivel', 'pontuacao': 'erro'}
+[2025-09-09 20:48:33] Erro: invalid literal for int() with base 10: 'nivel' | Linha: {'nome': 'Invalido', 'nivel': 'nivel', 'pontuacao': 'erro'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Alice', 'Nivel': '5', 'Pontuacao': '150.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Bruno', 'Nivel': '3', 'Pontuacao': '80.5'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Carla', 'Nivel': '4', 'Pontuacao': '120.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Daniel', 'Nivel': '2', 'Pontuacao': '50.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Eduardo', 'Nivel': '6', 'Pontuacao': '200.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Fernanda', 'Nivel': '3', 'Pontuacao': '90.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Gabriel', 'Nivel': '4', 'Pontuacao': '110.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Helena', 'Nivel': '5', 'Pontuacao': '160.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Igor', 'Nivel': '2', 'Pontuacao': '45.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Juliana', 'Nivel': '3', 'Pontuacao': '85.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Karina', 'Nivel': '4', 'Pontuacao': '130.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Leonardo', 'Nivel': '5', 'Pontuacao': '155.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Mariana', 'Nivel': '6', 'Pontuacao': '210.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Nicolas', 'Nivel': '2', 'Pontuacao': '60.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Olivia', 'Nivel': '3', 'Pontuacao': '95.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Paulo', 'Nivel': '4', 'Pontuacao': '125.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Quintino', 'Nivel': '5', 'Pontuacao': '165.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Rafaela', 'Nivel': '3', 'Pontuacao': '70.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Samuel', 'Nivel': '2', 'Pontuacao': '55.0'}
+[2025-09-09 20:49:38] Erro: 'nome' | Linha: {'Nome': 'Tatiane', 'Nivel': '4', 'Pontuacao': '140.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Alice', 'Nivel': '5', 'Pontuacao': '150.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Bruno', 'Nivel': '3', 'Pontuacao': '80.5'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Carla', 'Nivel': '4', 'Pontuacao': '120.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Daniel', 'Nivel': '2', 'Pontuacao': '50.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Eduardo', 'Nivel': '6', 'Pontuacao': '200.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Fernanda', 'Nivel': '3', 'Pontuacao': '90.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Gabriel', 'Nivel': '4', 'Pontuacao': '110.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Helena', 'Nivel': '5', 'Pontuacao': '160.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Igor', 'Nivel': '2', 'Pontuacao': '45.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Juliana', 'Nivel': '3', 'Pontuacao': '85.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Karina', 'Nivel': '4', 'Pontuacao': '130.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Leonardo', 'Nivel': '5', 'Pontuacao': '155.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Mariana', 'Nivel': '6', 'Pontuacao': '210.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Nicolas', 'Nivel': '2', 'Pontuacao': '60.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Olivia', 'Nivel': '3', 'Pontuacao': '95.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Paulo', 'Nivel': '4', 'Pontuacao': '125.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Quintino', 'Nivel': '5', 'Pontuacao': '165.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Rafaela', 'Nivel': '3', 'Pontuacao': '70.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Samuel', 'Nivel': '2', 'Pontuacao': '55.0'}
+[2025-09-09 20:49:49] Erro: 'nome' | Linha: {'Nome': 'Tatiane', 'Nivel': '4', 'Pontuacao': '140.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Alice', 'Nivel': '5', 'Pontuacao': '150.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Bruno', 'Nivel': '3', 'Pontuacao': '80.5'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Carla', 'Nivel': '4', 'Pontuacao': '120.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Daniel', 'Nivel': '2', 'Pontuacao': '50.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Eduardo', 'Nivel': '6', 'Pontuacao': '200.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Fernanda', 'Nivel': '3', 'Pontuacao': '90.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Gabriel', 'Nivel': '4', 'Pontuacao': '110.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Helena', 'Nivel': '5', 'Pontuacao': '160.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Igor', 'Nivel': '2', 'Pontuacao': '45.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Juliana', 'Nivel': '3', 'Pontuacao': '85.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Karina', 'Nivel': '4', 'Pontuacao': '130.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Leonardo', 'Nivel': '5', 'Pontuacao': '155.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Mariana', 'Nivel': '6', 'Pontuacao': '210.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Nicolas', 'Nivel': '2', 'Pontuacao': '60.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Olivia', 'Nivel': '3', 'Pontuacao': '95.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Paulo', 'Nivel': '4', 'Pontuacao': '125.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Quintino', 'Nivel': '5', 'Pontuacao': '165.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Rafaela', 'Nivel': '3', 'Pontuacao': '70.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Samuel', 'Nivel': '2', 'Pontuacao': '55.0'}
+[2025-09-09 20:53:16] Erro: 'nome' | Linha: {'Nome': 'Tatiane', 'Nivel': '4', 'Pontuacao': '140.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Alice', 'Nivel': '5', 'Pontuacao': '150.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Bruno', 'Nivel': '3', 'Pontuacao': '80.5'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Carla', 'Nivel': '4', 'Pontuacao': '120.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Daniel', 'Nivel': '2', 'Pontuacao': '50.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Eduardo', 'Nivel': '6', 'Pontuacao': '200.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Fernanda', 'Nivel': '3', 'Pontuacao': '90.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Gabriel', 'Nivel': '4', 'Pontuacao': '110.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Helena', 'Nivel': '5', 'Pontuacao': '160.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Igor', 'Nivel': '2', 'Pontuacao': '45.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Juliana', 'Nivel': '3', 'Pontuacao': '85.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Karina', 'Nivel': '4', 'Pontuacao': '130.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Leonardo', 'Nivel': '5', 'Pontuacao': '155.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Mariana', 'Nivel': '6', 'Pontuacao': '210.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Nicolas', 'Nivel': '2', 'Pontuacao': '60.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Olivia', 'Nivel': '3', 'Pontuacao': '95.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Paulo', 'Nivel': '4', 'Pontuacao': '125.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Quintino', 'Nivel': '5', 'Pontuacao': '165.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Rafaela', 'Nivel': '3', 'Pontuacao': '70.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Samuel', 'Nivel': '2', 'Pontuacao': '55.0'}
+[2025-09-09 20:55:31] Erro: 'nome' | Linha: {'Nome': 'Tatiane', 'Nivel': '4', 'Pontuacao': '140.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Alice', 'Nivel': '5', 'Pontuacao': '150.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Bruno', 'Nivel': '3', 'Pontuacao': '80.5'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Carla', 'Nivel': '4', 'Pontuacao': '120.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Daniel', 'Nivel': '2', 'Pontuacao': '50.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Eduardo', 'Nivel': '6', 'Pontuacao': '200.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Fernanda', 'Nivel': '3', 'Pontuacao': '90.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Gabriel', 'Nivel': '4', 'Pontuacao': '110.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Helena', 'Nivel': '5', 'Pontuacao': '160.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Igor', 'Nivel': '2', 'Pontuacao': '45.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Juliana', 'Nivel': '3', 'Pontuacao': '85.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Karina', 'Nivel': '4', 'Pontuacao': '130.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Leonardo', 'Nivel': '5', 'Pontuacao': '155.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Mariana', 'Nivel': '6', 'Pontuacao': '210.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Nicolas', 'Nivel': '2', 'Pontuacao': '60.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Olivia', 'Nivel': '3', 'Pontuacao': '95.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Paulo', 'Nivel': '4', 'Pontuacao': '125.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Quintino', 'Nivel': '5', 'Pontuacao': '165.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Rafaela', 'Nivel': '3', 'Pontuacao': '70.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Samuel', 'Nivel': '2', 'Pontuacao': '55.0'}
+[2025-09-09 20:56:47] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Tatiane', 'Nivel': '4', 'Pontuacao': '140.0'}
+[2025-09-09 20:58:14] Erro: invalid literal for int() with base 10: 'nivel' | Linha: {'nome': 'Invalido', 'nivel': 'nivel', 'pontuacao': 'erro'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Alice', 'Nivel': '5', 'Pontuacao': '150.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Bruno', 'Nivel': '3', 'Pontuacao': '80.5'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Carla', 'Nivel': '4', 'Pontuacao': '120.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Daniel', 'Nivel': '2', 'Pontuacao': '50.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Eduardo', 'Nivel': '6', 'Pontuacao': '200.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Fernanda', 'Nivel': '3', 'Pontuacao': '90.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Gabriel', 'Nivel': '4', 'Pontuacao': '110.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Helena', 'Nivel': '5', 'Pontuacao': '160.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Igor', 'Nivel': '2', 'Pontuacao': '45.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Juliana', 'Nivel': '3', 'Pontuacao': '85.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Karina', 'Nivel': '4', 'Pontuacao': '130.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Leonardo', 'Nivel': '5', 'Pontuacao': '155.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Mariana', 'Nivel': '6', 'Pontuacao': '210.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Nicolas', 'Nivel': '2', 'Pontuacao': '60.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Olivia', 'Nivel': '3', 'Pontuacao': '95.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Paulo', 'Nivel': '4', 'Pontuacao': '125.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Quintino', 'Nivel': '5', 'Pontuacao': '165.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Rafaela', 'Nivel': '3', 'Pontuacao': '70.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Samuel', 'Nivel': '2', 'Pontuacao': '55.0'}
+[2025-09-09 20:59:16] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Tatiane', 'Nivel': '4', 'Pontuacao': '140.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Alice', 'Nivel': '5', 'Pontuacao': '150.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Bruno', 'Nivel': '3', 'Pontuacao': '80.5'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Carla', 'Nivel': '4', 'Pontuacao': '120.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Daniel', 'Nivel': '2', 'Pontuacao': '50.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Eduardo', 'Nivel': '6', 'Pontuacao': '200.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Fernanda', 'Nivel': '3', 'Pontuacao': '90.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Gabriel', 'Nivel': '4', 'Pontuacao': '110.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Helena', 'Nivel': '5', 'Pontuacao': '160.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Igor', 'Nivel': '2', 'Pontuacao': '45.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Juliana', 'Nivel': '3', 'Pontuacao': '85.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Karina', 'Nivel': '4', 'Pontuacao': '130.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Leonardo', 'Nivel': '5', 'Pontuacao': '155.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Mariana', 'Nivel': '6', 'Pontuacao': '210.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Nicolas', 'Nivel': '2', 'Pontuacao': '60.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Olivia', 'Nivel': '3', 'Pontuacao': '95.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Paulo', 'Nivel': '4', 'Pontuacao': '125.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Quintino', 'Nivel': '5', 'Pontuacao': '165.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Rafaela', 'Nivel': '3', 'Pontuacao': '70.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Samuel', 'Nivel': '2', 'Pontuacao': '55.0'}
+[2025-09-09 20:59:39] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Tatiane', 'Nivel': '4', 'Pontuacao': '140.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Alice', 'Nivel': '5', 'Pontuacao': '150.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Bruno', 'Nivel': '3', 'Pontuacao': '80.5'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Carla', 'Nivel': '4', 'Pontuacao': '120.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Daniel', 'Nivel': '2', 'Pontuacao': '50.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Eduardo', 'Nivel': '6', 'Pontuacao': '200.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Fernanda', 'Nivel': '3', 'Pontuacao': '90.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Gabriel', 'Nivel': '4', 'Pontuacao': '110.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Helena', 'Nivel': '5', 'Pontuacao': '160.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Igor', 'Nivel': '2', 'Pontuacao': '45.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Juliana', 'Nivel': '3', 'Pontuacao': '85.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Karina', 'Nivel': '4', 'Pontuacao': '130.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Leonardo', 'Nivel': '5', 'Pontuacao': '155.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Mariana', 'Nivel': '6', 'Pontuacao': '210.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Nicolas', 'Nivel': '2', 'Pontuacao': '60.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Olivia', 'Nivel': '3', 'Pontuacao': '95.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Paulo', 'Nivel': '4', 'Pontuacao': '125.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Quintino', 'Nivel': '5', 'Pontuacao': '165.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Rafaela', 'Nivel': '3', 'Pontuacao': '70.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Samuel', 'Nivel': '2', 'Pontuacao': '55.0'}
+[2025-09-09 21:03:34] Erro: Campo vazio encontrado. | Linha: {'Nome': 'Tatiane', 'Nivel': '4', 'Pontuacao': '140.0'}
+[2025-09-09 21:06:20] WARNING:  * Debugger is active!
+[2025-09-09 21:06:20] INFO:  * Debugger PIN: 575-241-351
+[2025-09-09 21:06:43] INFO: 127.0.0.1 - - [09/Sep/2025 21:06:43] "[33mPOST /upload HTTP/1.1[0m" 404 -
+[2025-09-09 21:07:43] INFO:  * Detected change in 'C:\\Users\\aluno\\Desktop\\Nova pasta (2)\\ranking_app\\app.py', reloading
